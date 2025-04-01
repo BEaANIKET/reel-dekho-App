@@ -1,4 +1,4 @@
-package com.userapp
+package com.reeldekho
 
 import android.app.Application
 import com.facebook.react.PackageList
